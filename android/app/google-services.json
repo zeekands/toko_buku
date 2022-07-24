@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "632146385187",
-    "project_id": "toko-buku-bec38",
-    "storage_bucket": "toko-buku-bec38.appspot.com"
+    "project_number": "783358254010",
+    "project_id": "toko-buku-f6c70",
+    "storage_bucket": "toko-buku-f6c70.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:632146385187:android:6ca2e206ab24c92c1a9496",
+        "mobilesdk_app_id": "1:783358254010:android:0933fb25b41fe758295b83",
         "android_client_info": {
           "package_name": "com.example.toko_buku"
         }
       },
       "oauth_client": [
         {
-          "client_id": "632146385187-rhavo3tuafknhhbdd3r16ehfmg85ftku.apps.googleusercontent.com",
+          "client_id": "783358254010-09lnifr2vb2bai4h1ik2373pargu85l4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAAOUOqRV-sBsQj8Hs5SjUnPjTXAXX0HtY"
+          "current_key": "AIzaSyDVYV9113e_Me7Ov0OgHtvxjFZ8UKffvDw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "632146385187-rhavo3tuafknhhbdd3r16ehfmg85ftku.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:632146385187:android:aec882e12c9a61361a9496",
-        "android_client_info": {
-          "package_name": "com.zeekands.toko_buku"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "632146385187-rhavo3tuafknhhbdd3r16ehfmg85ftku.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAAOUOqRV-sBsQj8Hs5SjUnPjTXAXX0HtY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "632146385187-rhavo3tuafknhhbdd3r16ehfmg85ftku.apps.googleusercontent.com",
+              "client_id": "783358254010-09lnifr2vb2bai4h1ik2373pargu85l4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
